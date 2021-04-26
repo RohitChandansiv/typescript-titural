@@ -16,7 +16,7 @@ console.log(combineVlaues(8,8));
 
 function printResultwithUndefied(num : number): undefined{  // undefined  return type dosent 'return' anything
     console.log("Result is : " + num);
-    return
+    return   
 }
 
 let something :undefined; //undefined type
